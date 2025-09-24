@@ -1,0 +1,117 @@
+[
+  {
+    "name": "Netarhat",
+    "coords": [23.471, 84.267],
+    "category": "Nature",
+    "description": "Hill station known for sunrise and sunset views.",
+    "image": "/images/places/DJI_0495-1536x2048.jpg",
+    "image360": "/images/1707898054_213633-3-days-tour-to-jharkhand-slider-image.jpeg",
+    "model3D": "https://modelviewer.dev/shared-assets/models/Astronaut.glb"
+  },
+  {
+    "name": "Hundru Falls",
+    "coords": [23.41, 85.43],
+    "category": "Nature",
+    "description": "One of the highest waterfalls near Ranchi on the Subarnarekha river.",
+    "image360": "https://cdn.aframe.io/360-image-gallery-boilerplate/img/sechelt.jpg"
+  },
+  {
+    "name": "Jonha Falls",
+    "coords": [23.30, 85.52],
+    "category": "Nature",
+    "description": "Scenic hanging valley falls also known as Gautamdhara.",
+    "image360": "https://cdn.aframe.io/360-image-gallery-boilerplate/img/sechelt.jpg"
+  },
+  {
+    "name": "Hirni Falls",
+    "coords": [22.98, 85.21],
+    "category": "Nature",
+    "description": "Picturesque waterfall with surrounding forests in Khunti.",
+    "image360": "https://cdn.aframe.io/360-image-gallery-boilerplate/img/sechelt.jpg"
+  },
+  {
+    "name": "Betla National Park",
+    "coords": [23.752, 84.214],
+    "category": "Wildlife",
+    "description": "Tiger reserve with rich biodiversity and forests.",
+    "image": "/images/places/DJI_0483-1536x2048.jpg",
+    "image360": "/images/2018040392-1024x678.jpg"
+  },
+  {
+    "name": "Palamu Fort",
+    "coords": [23.91, 84.08],
+    "category": "Culture",
+    "description": "Historic twin forts built by Chero dynasty near Betla.",
+    "image360": "https://cdn.aframe.io/360-image-gallery-boilerplate/img/sechelt.jpg"
+  },
+  {
+    "name": "Baidyanath Temple (Deoghar)",
+    "coords": [24.492, 86.703],
+    "category": "Pilgrimage",
+    "description": "One of the twelve Jyotirlingas, a major Hindu temple.",
+    "image": "/images/baba-baidyanath-dham-deoghar-odisha-1-attr-hero.jpeg",
+    "image360": "/images/places/470901929_17984672108784425_3926093529185024918_n.jpg",
+    "model3D": "https://modelviewer.dev/shared-assets/models/Astronaut.glb"
+  },
+  {
+    "name": "Dassam Falls",
+    "coords": [23.275, 85.556],
+    "category": "Nature",
+    "description": "Scenic waterfall on the Kanchi River near Ranchi.",
+    "image": "/images/Dimna-Lake-Jharkhand.jpg",
+    "image360": "/images/places/474973484_18018167339657386_6270777366513768460_n.jpg"
+  },
+  {
+    "name": "Patratu Valley",
+    "coords": [23.68, 85.28],
+    "category": "Nature",
+    "description": "Stunning valley drive with panoramic views and lake.",
+    "image360": "https://cdn.aframe.io/360-image-gallery-boilerplate/img/sechelt.jpg"
+  },
+  {
+    "name": "Parasnath Hill (Shikharji)",
+    "coords": [23.955, 86.141],
+    "category": "Pilgrimage",
+    "description": "Important Jain pilgrimage site with hilltop temples.",
+    "image": "/images/jami-masjid.jpg",
+    "image360": "/images/places/474987088_18018167267657386_6714658288565879906_n.jpg"
+  },
+  {
+    "name": "Dalma Wildlife Sanctuary",
+    "coords": [22.87, 86.17],
+    "category": "Wildlife",
+    "description": "Elephant corridors, trekking routes near Jamshedpur.",
+    "image360": "https://cdn.aframe.io/360-image-gallery-boilerplate/img/sechelt.jpg"
+  },
+  {
+    "name": "Maithon Dam",
+    "coords": [23.78, 86.80],
+    "category": "Nature",
+    "description": "Picturesque dam on Barakar river at Jharkhand–West Bengal border.",
+    "image360": "https://cdn.aframe.io/360-image-gallery-boilerplate/img/sechelt.jpg"
+  },
+  {
+    "name": "Jubilee Park, Jamshedpur",
+    "coords": [22.80, 86.20],
+    "category": "Culture",
+    "description": "Sprawling urban park with fountains and gardens.",
+    "image360": "https://cdn.aframe.io/360-image-gallery-boilerplate/img/sechelt.jpg"
+  },
+  {
+    "name": "Tagore Hill, Ranchi",
+    "coords": [23.41, 85.33],
+    "category": "Culture",
+    "description": "Hilltop viewpoint associated with Rabindranath Tagore.",
+    "image360": "https://cdn.aframe.io/360-image-gallery-boilerplate/img/sechelt.jpg"
+  },
+  {
+    "name": "Ranchi",
+    "coords": [23.344, 85.309],
+    "category": "Culture",
+    "description": "Capital city known for lakes, waterfalls, and culture.",
+    "image": "/images/pexels-vikashkr50-17971746.jpg",
+    "image360": "/images/places/470916846_17906078529074137_673468690447083802_n.jpg"
+  }
+]
+
+
