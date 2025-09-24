@@ -51,8 +51,5 @@ VITE_NFT_ABI=[{"inputs":[{"internalType":"address","name":"to","type":"address"}
 ```
 
 If env vars are not set, the app gracefully falls back to sample data and stub flows for demos.
-📦 Deployment
-Hosted on Netlify
-[![Netlify Status](https://api.netlify.com/api/v1/badges/76dec5df-7e1a-4f69-9a5f-22dc68e054e6/deploy-status)](https://app.netlify.com/sites/jharkhandtourguide/deploys)
 
 Made with ❤️ for Jharkhand.
